@@ -17,12 +17,12 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 78bf43bb9be934acc9e90b5149586b0d
   m_SerializeEntries:
-  - m_GUID: fc4181bbb8e2a418eb41d3d18356bb33
-    m_Address: Assets/Textures/Solid Colors/SeaFoam.png
+  - m_GUID: 9934215aaba894bfcb63451da3af8635
+    m_Address: Assets/Textures/Solid Colors/Orange.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: a6af12be9d9ee496d8aaeadc447b5e11
-    m_Address: Assets/Textures/Solid Colors/White.png
+  - m_GUID: fc4181bbb8e2a418eb41d3d18356bb33
+    m_Address: Assets/Textures/Solid Colors/SeaFoam.png
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: fca94da02c02d41a7bc7f35ff2de30cc
@@ -55,6 +55,14 @@ MonoBehaviour:
     m_SerializedLabels: []
   - m_GUID: 188d97f21b65a4f91891917788feb0bc
     m_Address: Assets/Prefabs/Cube (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6af12be9d9ee496d8aaeadc447b5e11
+    m_Address: Assets/Textures/Solid Colors/White.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d78dea2b09f7401c9553a8237b7a56c
+    m_Address: Assets/Textures/Solid Colors/Red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0

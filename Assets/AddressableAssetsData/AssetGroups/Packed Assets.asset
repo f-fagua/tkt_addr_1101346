@@ -16,7 +16,15 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: fbd54dde142da4f79a1fc0566bf67dd4
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 0667b35965e444bae9d3706f79b9ee28
+    m_Address: Assets/Textures/Solid Colors/Blue.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5458648bbf2e64b77b793e90e8b85db6
+    m_Address: Assets/Textures/Solid Colors/Yellow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 11b8bcbb76b974673a9a3803caa85725, type: 2}
   m_SchemaSet:
