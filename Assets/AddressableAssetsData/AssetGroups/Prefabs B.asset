@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs B
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs B
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 17eb43942089d47c6b3270b0f0bedc3d
+  m_SerializeEntries:
+  - m_GUID: 0667b35965e444bae9d3706f79b9ee28
+    m_Address: Assets/Textures/Solid Colors/Blue.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5458648bbf2e64b77b793e90e8b85db6
+    m_Address: Assets/Textures/Solid Colors/Yellow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9934215aaba894bfcb63451da3af8635
+    m_Address: Assets/Textures/Solid Colors/Orange.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fad71d26932d4a5f9b01ed5f1b87b4d
+    m_Address: Assets/Materials/HD Material 02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d78dea2b09f7401c9553a8237b7a56c
+    m_Address: Assets/Textures/Solid Colors/Red.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2a5a7105471549cc9a44fc53d34e136
+    m_Address: Assets/Prefabs/Cube (2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 11b8bcbb76b974673a9a3803caa85725, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a7b41fe151f674478bc280cc27cea4ae, type: 2}
+    - {fileID: 11400000, guid: 7adfcce99c05a4d66923bd0c766e4061, type: 2}

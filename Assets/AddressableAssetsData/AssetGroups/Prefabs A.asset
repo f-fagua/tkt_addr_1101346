@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs A
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs A
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 78bf43bb9be934acc9e90b5149586b0d
+  m_SerializeEntries:
+  - m_GUID: fc4181bbb8e2a418eb41d3d18356bb33
+    m_Address: Assets/Textures/Solid Colors/SeaFoam.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6af12be9d9ee496d8aaeadc447b5e11
+    m_Address: Assets/Textures/Solid Colors/White.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fca94da02c02d41a7bc7f35ff2de30cc
+    m_Address: Assets/Materials/HD Material 03.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c124acb9cffa4f0197c8c662440eeb1
+    m_Address: Assets/Materials/HD Material 05.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8acd4f63b747f415c9565cfda042533d
+    m_Address: Assets/Materials/HD Material 04.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0616c2d64f4c44839af4e5ec03e39eb1
+    m_Address: Assets/Prefabs/Cube (5).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 569b647286d4a4f70afade658ca5769e
+    m_Address: Assets/Prefabs/Cube (4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 153cddf981b284574b9988fd4e70198f
+    m_Address: Assets/Prefabs/Cube (3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83d34a88243b94e5bb23c77351a91c8f
+    m_Address: Assets/Materials/HD Material 01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 188d97f21b65a4f91891917788feb0bc
+    m_Address: Assets/Prefabs/Cube (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 11b8bcbb76b974673a9a3803caa85725, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b247a7590e18f42d0bf42e8ad6526d4b, type: 2}
+    - {fileID: 11400000, guid: 76588a15e4f1f4c1380d5d482c98e347, type: 2}
