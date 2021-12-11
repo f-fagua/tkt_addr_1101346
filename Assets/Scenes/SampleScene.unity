@@ -312,4 +312,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468a28911b83a463292c1637d90242a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_BrokenAsset: Assets/Textures/Solid Colors/White.png
+  m_BrokenAsset: Assets/Materials/HD Material 02.mat
