@@ -49,18 +49,6 @@ MonoBehaviour:
     m_Address: Assets/Prefabs/Cube (3).prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 83d34a88243b94e5bb23c77351a91c8f
-    m_Address: Assets/Materials/HD Material 01.mat
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 188d97f21b65a4f91891917788feb0bc
-    m_Address: Assets/Prefabs/Cube (1).prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: a6af12be9d9ee496d8aaeadc447b5e11
-    m_Address: Assets/Textures/Solid Colors/White.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: 4d78dea2b09f7401c9553a8237b7a56c
     m_Address: Assets/Textures/Solid Colors/Red.png
     m_ReadOnly: 0

@@ -21,6 +21,10 @@ MonoBehaviour:
     m_Address: Assets/Materials/HD Material 02.mat
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: a6af12be9d9ee496d8aaeadc447b5e11
+    m_Address: Assets/Textures/Solid Colors/White.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   - m_GUID: d2a5a7105471549cc9a44fc53d34e136
     m_Address: Assets/Prefabs/Cube (2).prefab
     m_ReadOnly: 0

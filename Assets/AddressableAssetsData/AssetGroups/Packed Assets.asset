@@ -17,12 +17,20 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: fbd54dde142da4f79a1fc0566bf67dd4
   m_SerializeEntries:
+  - m_GUID: 188d97f21b65a4f91891917788feb0bc
+    m_Address: Assets/Prefabs/Cube (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   - m_GUID: 0667b35965e444bae9d3706f79b9ee28
     m_Address: Assets/Textures/Solid Colors/Blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 5458648bbf2e64b77b793e90e8b85db6
     m_Address: Assets/Textures/Solid Colors/Yellow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83d34a88243b94e5bb23c77351a91c8f
+    m_Address: Assets/Materials/HD Material 01.mat
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
