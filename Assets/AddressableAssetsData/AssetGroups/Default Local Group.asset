@@ -16,7 +16,27 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 7e6220cf0cd63480c93cfd9bf3844683
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 9934215aaba894bfcb63451da3af8635
+    m_Address: Assets/Textures/Solid Colors/Orange.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 153cddf981b284574b9988fd4e70198f
+    m_Address: Assets/Prefabs/Cube (3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 569b647286d4a4f70afade658ca5769e
+    m_Address: Assets/Prefabs/Cube (4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c124acb9cffa4f0197c8c662440eeb1
+    m_Address: Assets/Materials/HD Material 05.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8acd4f63b747f415c9565cfda042533d
+    m_Address: Assets/Materials/HD Material 04.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 11b8bcbb76b974673a9a3803caa85725, type: 2}
   m_SchemaSet:
